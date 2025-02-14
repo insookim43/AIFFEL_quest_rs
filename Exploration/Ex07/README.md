@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김 인수
-- 리뷰어 : 김 영ㅏ
+- 리뷰어 : 김 영만
 
 
 # PRT(Peer Review Template)
@@ -8,7 +8,7 @@
     - 공백과 특수문자 처리, 토크나이징, 병렬데이터 구축의 과정이 적절히 진행 되었습니다.
         - ![d_process](./d_process.png)
     - 트랜스포머 모델을 구현하여 한국어 챗봇 모델 학습을 정상적으로 진행 되었습니다.
-        - ![done](./d_process.png)
+        - ![done](./done.png)
     - 한국어 입력문장에 대해 한국어로 답변하는 함수를 구현 되었습니다.
         - ![gen_doc](./gen_doc.png)
 
